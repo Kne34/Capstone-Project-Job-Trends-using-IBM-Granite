@@ -7,7 +7,7 @@ mengidentifikasi **pekerjaan paling diminati**, **skill yang paling dicari**, **
 untuk menghasilkan ringkasan dan insight naratif berbasis data.
 
 ## Raw Dataset Link
-{dataset_link}
+[Dataset_link](https://storage.googleapis.com/kagglesdsdata/datasets/7564261/12317903/ai_job_dataset.csv?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20250820%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250820T155846Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=aa51fe923c34fdce2f691630a39816b4b6051edd9e2a012b12afb8c3b1d95a47e51bf7059cdd6a0c3f8566964bfbf9c8603ada12df464369522a3f0ddeb6104b79bd41d2128fdd205a7c9d3421736adc85406ada5e7ab0414b9cfb817cd740d47dca6e35e7485faa6ab4b55823beb8d1465200012dd08377cf62fd1f850520a7ea0c457a6240c1a0e1ea0ae28d9ea2b3334875e4e36974cdb74fa871138515bf23bef6e09458552801ce3c152ceca9f997f913bd894422f658a85dc402f11efa0ad4ededa5040e28c0e446e04a13b3b614270b1450535642692ca9b36dd37b9acc98e57d45225d7bc20132173de753a6acbfc654310c8338df878d45eded93a7)
 
 ## Analysis Process
 1. **Preprocessing Data**
